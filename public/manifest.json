@@ -1,0 +1,19 @@
+
+{
+  "short_name": "OfflineReact",
+  "name": "Persist Deployed URL",
+  "description": "React application with offline routing",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#172554",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "any",
+      "type": "image/x-icon",
+      "purpose": "any"
+    }
+  ]
+}
