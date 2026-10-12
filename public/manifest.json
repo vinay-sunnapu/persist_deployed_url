@@ -1,13 +1,13 @@
 
 {
-  "short_name": "OfflineReact",
-  "name": "Persist Deployed URL",
-  "description": "React application with offline routing",
+  "short_name": "Fieldnotes",
+  "name": "Fieldnotes — your space, anywhere",
+  "description": "A quiet, offline-ready space for your notes, ideas, and plans.",
   "start_url": "/",
   "scope": "/",
   "display": "standalone",
   "background_color": "#ffffff",
-  "theme_color": "#172554",
+  "theme_color": "#355b48",
   "icons": [
     {
       "src": "favicon.ico",
